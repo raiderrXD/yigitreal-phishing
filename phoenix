@@ -1,6 +1,4 @@
 #!/bin/bash
-#DEVELOPED BY DEVIL MASTER
-#github.com/isuruwa
 
 # Colors
 re='\e[1;31m'
@@ -31,13 +29,13 @@ exit 0
 function banner() {
 clear
 echo -e $lgf "██████╗ ██╗  ██╗ ██████╗ ███████╗███╗   ██╗██╗██╗  ██╗"
-echo -e $wh "██╔══██╗██║  ██║██╔═══██╗██╔════╝████╗  ██║██║╚██╗██╔╝"
-echo -e $lgf "██████╔╝███████║██║   ██║█████╗  ██╔██╗ ██║██║ ╚███╔╝ "
-echo -e $wh "██╔═══╝ ██╔══██║██║   ██║██╔══╝  ██║╚██╗██║██║ ██╔██╗ "
-echo -e $lgf "██║     ██║  ██║╚██████╔╝███████╗██║ ╚████║██║██╔╝ ██╗"
-echo -e $wh "╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ V 1.0\n"
+echo -e $wh "██╔══██╗██║  █TELEGRAM KANAL @DarkNebulaHack  ██║██║╚██╗██╔╝"
+echo -e $lgf "██████╔╝█████TELEGRAM CHAT @DarkNebulaChat  ██╔██╗ ██║██║ ╚███╔╝ "
+echo -e $wh "██╔═══╝ ██╔══█İNSTAGRAM @y1gitreal║██║   ██║██╔══╝  ██║╚██╗██║██║ ██╔██╗ "
+echo -e $lgf "               TELEGRAM @yigitreal"
+echo -e $wh "                PHİSHİNG TOOL 1.0\n"
 echo -e $re "╔================================================╗"
-echo -e $re "       $cy    DEVELOPED BY DEVIL MASTER              "
+echo -e $re "       $cy    İyi Oyunlar:)                      "
 echo -e $re "╚================================================╝\n"
 }
 
