@@ -28,14 +28,14 @@ exit 0
 # Banner
 function banner() {
 clear
-echo -e $lgf "██████╗ ██╗  ██╗ ██████╗ ███████╗███╗   ██╗██╗██╗  ██╗"
-echo -e $wh "██╔══██╗██║  █TELEGRAM KANAL @DarkNebulaHack  ██║██║╚██╗██╔╝"
-echo -e $lgf "██████╔╝█████TELEGRAM CHAT @DarkNebulaChat  ██╔██╗ ██║██║ ╚███╔╝ "
-echo -e $wh "██╔═══╝ ██╔══█İNSTAGRAM @y1gitreal║██║   ██║██╔══╝  ██║╚██╗██║██║ ██╔██╗ "
-echo -e $lgf "               TELEGRAM @yigitreal"
-echo -e $wh "                PHİSHİNG TOOL 1.0\n"
+echo -e $lgf "████████PHİSHİNG TOOL 1.0 ██████████"
+echo -e $wh "█████TELEGRAM KANAL @DarkNebulaHack"
+echo -e $lgf "█████TELEGRAM CHAT @DarkNebulaChat"
+echo -e $wh "█████İNSTAGRAM @y1gitreal"
+echo -e $lgf "█████TELEGRAM @yigitreal"
+echo -e $wh "█████PHİSHİNG TOOL 1.0\n"
 echo -e $re "╔================================================╗"
-echo -e $re "       $cy    İyi Oyunlar:)                      "
+echo -e $re "       $cy   Telegram Kanalına Katılmayı Unutma:)                    "
 echo -e $re "╚================================================╝\n"
 }
 
