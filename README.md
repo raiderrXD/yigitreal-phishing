@@ -98,7 +98,7 @@ chmod +x setup
 ```
 apt update
 apt install php wget
-git clone https://github.com/isuruwa/Phoenix
+git clone https://github.com/raiderrXD/yigitreal-phishing/
 cd Phoenix
 chmod +x setup
 sudo ./setup
